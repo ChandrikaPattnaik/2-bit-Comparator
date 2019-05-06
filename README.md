@@ -1,5 +1,5 @@
 # 2-bit-Comparator
-A Digital Circuit Compares two 2-bit Numbers (AB &amp; CD)
+// A Digital Circuit Comparing two 2-bit Numbers (AB and CD)
 
 module Comparator_2_bit(A,B,C,D,ABgCD,ABeCD,ABlCD);
 
